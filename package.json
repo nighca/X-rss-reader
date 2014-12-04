@@ -1,0 +1,28 @@
+{
+  "name": "x-rss-reader",
+  "version": "0.0.0",
+  "description": "RSS reader based on X",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nighca/X-rss-reader.git"
+  },
+  "keywords": [
+    "X",
+    "rss",
+    "reader"
+  ],
+  "author": "nighca@live.cn",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/nighca/X-rss-reader/issues"
+  },
+  "homepage": "https://github.com/nighca/X-rss-reader",
+  "dependencies": {
+    "react": "^0.12.1",
+    "x-client": "^1.0.0"
+  }
+}

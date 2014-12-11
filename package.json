@@ -4,7 +4,8 @@
   "description": "RSS reader based on X",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "browserify": "browserify build/main.js -o build/dist.js"
   },
   "repository": {
     "type": "git",

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npm test",
-    "browserify": "browserify build/main.js -o build/dist.js"
+    "browserify": "browserify build/index.js -o ./index.js"
   },
   "repository": {
     "type": "git",
